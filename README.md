@@ -10,6 +10,15 @@
 * [GitHub Blog](https://github.com/blog/)
 * [Red Hat Blog](https://www.redhat.com/en/blog)
 
+## Google Blog
+* [Official Google Blog](https://blog.google/) 包含Google各种产品和技术主题，是Google博客的汇聚点。
+* [Google Developers Blog](https://developers.googleblog.com/)
+* [Android Developers Blog](https://android-developers.googleblog.com/)
+* [Google Ads Developer Blog](https://googleadsdeveloper.blogspot.com/)
+* [Google Research Blog](https://research.googleblog.com/)
+* [Google Student Blog](https://students.googleblog.com/)
+* [Chromium Blog](https://blog.chromium.org/)
+
 ## Planet
 * [Kernel Planet](http://kernelplanet.org/)
 * [Planet Debian](http://planet.debian.org/)
@@ -27,3 +36,14 @@
 ## 个人博客
 * [灰狐](http://blog.huihoo.com/)
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+
+## 欢迎参与 Welcome and Help
+欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。
+
+## 许可方式 License
+[![GNU FDL](http://wiki.huihoo.com/skins/common/images/gnu-fdl.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0) [![CC](http://wiki.huihoo.com/images/4/4e/CC-BY-SA_3.0-88x31.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0)
+
+## 赞助 Donate
+![赞助](http://wiki.huihoo.com/images/d/d7/Weixin-dashang.jpg) 微信扫码
+
+[赞助我们，灰狐需要一杯热咖啡。](http://wiki.huihoo.com/wiki/Donate_to_huihoo)

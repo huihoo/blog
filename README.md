@@ -25,6 +25,7 @@
 * [Google Research Blog](https://research.googleblog.com/)
 * [Google Student Blog](https://students.googleblog.com/)
 * [Chromium Blog](https://blog.chromium.org/)
+* [Firebase Blog](https://firebase.googleblog.com/)
 
 ## Planet
 * [Kernel Planet](http://kernelplanet.org/)

@@ -2,9 +2,16 @@
 开放博客资源索引
 
 ## 开源项目官方博客
+* [Mozilla Blog](https://blog.mozilla.org/)
 * [Qt Blog](https://blog.qt.io/)
 * [Meteor Blog](https://blog.meteor.com/)
+* [Ionic Blog](http://blog.ionicframework.com/)
 * [MongoDB Blog](https://www.mongodb.com/blog)
+* [NPM Blog](http://blog.npmjs.org/)
+* [Ghost Blog](https://blog.ghost.org/) [Ghost Dev Blog](https://dev.ghost.org/)
+* [Atom Blog](http://blog.atom.io/)
+* [Visual Studio Code Blog](https://code.visualstudio.com/blogs/)
+* [TypeScript Blog](https://blogs.msdn.microsoft.com/typescript/)
 
 ## 企业官方博客
 * [GitHub Blog](https://github.com/blog/)
@@ -41,7 +48,7 @@
 * [Planet MySQL](http://planet.mysql.com/)
 * [Planet Eclipse](http://planeteclipse.org/)
 
-## 个人博客
+## 个人/团队博客
 * [灰狐](http://blog.huihoo.com/)
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 

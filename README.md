@@ -2,13 +2,13 @@
 开放博客资源索引
 
 ## 开源项目官方博客
-* [Mozilla Blog](https://blog.mozilla.org/)
+* [Mozilla Blog](https://blog.mozilla.org/) | [Mozilla Hacks](https://hacks.mozilla.org/)
 * [Qt Blog](https://blog.qt.io/)
 * [Meteor Blog](https://blog.meteor.com/)
 * [Ionic Blog](http://blog.ionicframework.com/)
 * [MongoDB Blog](https://www.mongodb.com/blog)
 * [NPM Blog](http://blog.npmjs.org/)
-* [Ghost Blog](https://blog.ghost.org/) [Ghost Dev Blog](https://dev.ghost.org/)
+* [Ghost Blog](https://blog.ghost.org/) | [Ghost Dev Blog](https://dev.ghost.org/)
 * [Atom Blog](http://blog.atom.io/)
 * [Visual Studio Code Blog](https://code.visualstudio.com/blogs/)
 * [TypeScript Blog](https://blogs.msdn.microsoft.com/typescript/)

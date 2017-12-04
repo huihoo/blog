@@ -51,6 +51,7 @@
 ## 个人/团队博客
 * [灰狐](http://blog.huihoo.com/)
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+* [程序员小辉](https://www.xiaohui.com/)
 
 ## 欢迎参与 Welcome and Help
 欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。

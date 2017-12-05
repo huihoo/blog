@@ -6,6 +6,7 @@
 * [Qt Blog](https://blog.qt.io/)
 * [Meteor Blog](https://blog.meteor.com/)
 * [Ionic Blog](http://blog.ionicframework.com/)
+* [Parse Blog](http://blog.parseplatform.org/)
 * [MongoDB Blog](https://www.mongodb.com/blog)
 * [NPM Blog](http://blog.npmjs.org/)
 * [Ghost Blog](https://blog.ghost.org/) | [Ghost Dev Blog](https://dev.ghost.org/)

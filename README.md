@@ -22,6 +22,7 @@
 * [Official Google Blog](https://blog.google/) 包含Google各种产品和技术主题，是Google博客的汇聚点。
 * [Google Developers Blog](https://developers.googleblog.com/)
 * [谷歌开发者中文博客](http://developers.googleblog.cn/)
+* [Google台灣官方部落格](https://taiwan.googleblog.com/)
 * [Programa con Google (Spanish LATAM)](https://desarrolladores.googleblog.com/)
 * [Codigo (Portuguese LATAM)](https://desenvolvedores.googleblog.com/)
 * [Google Developers Italia Blog](https://developers-it.googleblog.com/)

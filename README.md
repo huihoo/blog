@@ -1,6 +1,14 @@
 # blog
 开放博客资源索引
 
+## 博客服务
+* [Blogge](https://www.blogger.com/)
+* [简书](http://www.jianshu.com/)
+* [博客园](https://www.cnblogs.com/)
+* [网易博客](http://blog.163.com/)
+* [新浪博客](http://blog.sina.com.cn/)
+* [搜狐博客](http://blog.sohu.com/)
+
 ## 开源项目官方博客
 * [Mozilla Blog](https://blog.mozilla.org/) | [Mozilla Hacks](https://hacks.mozilla.org/)
 * [Qt Blog](https://blog.qt.io/)
@@ -49,11 +57,19 @@
 * [Planet PostgreSQL](https://planet.postgresql.org/)
 * [Planet MySQL](http://planet.mysql.com/)
 * [Planet Eclipse](http://planeteclipse.org/)
+* [WordPress Planet](http://planet.wordpress.org/)
 
 ## 个人/团队博客
 * [灰狐](http://blog.huihoo.com/)
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 * [程序员小辉](https://www.xiaohui.com/)
+* [電腦玩物](http://www.playpcesor.com/)
+* [猎数博客](http://www.bagualu.net/)
+
+## 开源博客程序
+* [WordPress](https://wordpress.org)
+* [ghost](https://ghost.org/)
+* [hexo](https://hexo.io/)
 
 ## 欢迎参与 Welcome and Help
 欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。

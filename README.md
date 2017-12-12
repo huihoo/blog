@@ -21,6 +21,7 @@
 * [Atom Blog](http://blog.atom.io/)
 * [Visual Studio Code Blog](https://code.visualstudio.com/blogs/)
 * [TypeScript Blog](https://blogs.msdn.microsoft.com/typescript/)
+* [Serverless Blog](https://serverless.com/blog/)
 
 ## 企业官方博客
 * [GitHub Blog](https://github.com/blog/)

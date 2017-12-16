@@ -26,6 +26,7 @@
 * [Serverless Blog](https://serverless.com/blog/)
 
 ## 企业官方博客
+* [JetBrains Blog](https://blog.jetbrains.com/)
 * [GitHub Blog](https://github.com/blog/)
 * [Red Hat Blog](https://www.redhat.com/en/blog)
 

@@ -54,6 +54,7 @@
 * [Planet Fedora](http://fedoraplanet.org/)
 * [Planet KDE](https://planet.kde.org/)
 * [Planet Jabber](https://planet.jabber.org/)
+* [Planet Classpath](http://planet.classpath.org/)
 * [Planet Lisp](http://planet.lisp.org/)
 * [Planet PHP](http://www.planet-php.org/)
 * [Planet Python](http://planetpython.org/)

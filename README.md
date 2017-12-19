@@ -65,6 +65,7 @@
 
 ## 个人/团队博客
 * [灰狐](http://blog.huihoo.com/)
+* [云风的BLOG](https://blog.codingnow.com/)
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 * [程序员小辉](https://www.xiaohui.com/)
 * [電腦玩物](http://www.playpcesor.com/)

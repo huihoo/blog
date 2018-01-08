@@ -29,6 +29,10 @@
 * [JetBrains Blog](https://blog.jetbrains.com/)
 * [GitHub Blog](https://github.com/blog/)
 * [Red Hat Blog](https://www.redhat.com/en/blog)
+* [Databricks Blog](https://databricks.com/blog) Apache Spark
+* [Confluent Blog](https://www.confluent.io/blog/) Apache Kafka
+* [DataStax Blog](https://www.datastax.com/blog) Apache Cassandra
+* [Mesosphere Blog](https://mesosphere.com/blog/) Apache Mesos
 
 ## Google Blog
 * [Official Google Blog](https://blog.google/) 包含Google各种产品和技术主题，是Google博客的汇聚点。

@@ -29,6 +29,7 @@
 * [JetBrains Blog](https://blog.jetbrains.com/)
 * [GitHub Blog](https://github.com/blog/)
 * [Red Hat Blog](https://www.redhat.com/en/blog)
+* [HashiCorp Blog](https://www.hashicorp.com/blog/) Consul, Nomad, Packer, Terraform, Vagrant, Vault
 * [Databricks Blog](https://databricks.com/blog) Apache Spark
 * [Confluent Blog](https://www.confluent.io/blog/) Apache Kafka
 * [DataStax Blog](https://www.datastax.com/blog) Apache Cassandra
@@ -91,4 +92,4 @@
 ## 赞助 Donate
 ![赞助](http://wiki.huihoo.com/images/d/d7/Weixin-dashang.jpg) 微信扫码
 
-[赞助我们，灰狐需要一杯热咖啡。](http://wiki.huihoo.com/wiki/Donate_to_huihoo)
+[赞助我们，灰狐想喝一杯热咖啡。](http://wiki.huihoo.com/wiki/Donate_to_huihoo)

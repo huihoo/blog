@@ -57,6 +57,7 @@
 ## Planet
 * [Kernel Planet](http://kernelplanet.org/)
 * [Planet Debian](http://planet.debian.org/)
+* [Planet CentOS](http://planet.centos.org/)
 * [Planet Fedora](http://fedoraplanet.org/)
 * [Planet KDE](https://planet.kde.org/)
 * [Planet Jabber](https://planet.jabber.org/)

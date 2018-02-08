@@ -35,6 +35,7 @@
 * [DataStax Blog](https://www.datastax.com/blog) Apache Cassandra
 * [Mesosphere Blog](https://mesosphere.com/blog/) Apache Mesos
 * [数人云博客](http://blog.shurenyun.com/) 提供基于Mesos + Docker + Kubernetes的PaaS平台服务
+* [Hypriot Blog](http://blog.hypriot.com/) Docker Pirates ARMed with explosive stuff
 
 ## Google Blog
 * [Official Google Blog](https://blog.google/) 包含Google各种产品和技术主题，是Google博客的汇聚点。

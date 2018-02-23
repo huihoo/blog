@@ -24,6 +24,9 @@
 * [Visual Studio Code Blog](https://code.visualstudio.com/blogs/)
 * [TypeScript Blog](https://blogs.msdn.microsoft.com/typescript/)
 * [Serverless Blog](https://serverless.com/blog/)
+* [Talos Blog](http://blog.talosintelligence.com/)
+* [Snort Blog](http://blog.snort.org/)
+* [ClamAV Blog](http://blog.clamav.net/)
 
 ## 企业官方博客
 * [JetBrains Blog](https://blog.jetbrains.com/)

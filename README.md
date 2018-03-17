@@ -37,6 +37,8 @@
 * [Confluent Blog](https://www.confluent.io/blog/) Apache Kafka
 * [DataStax Blog](https://www.datastax.com/blog) Apache Cassandra
 * [Mesosphere Blog](https://mesosphere.com/blog/) Apache Mesos
+* [H2O.ai Blog](https://blog.h2o.ai/)
+* [KNIME Blog](https://www.knime.com/blog)
 * [数人云博客](http://blog.shurenyun.com/) 提供基于Mesos + Docker + Kubernetes的PaaS平台服务
 * [Hypriot Blog](http://blog.hypriot.com/) Docker Pirates ARMed with explosive stuff
 

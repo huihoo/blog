@@ -29,6 +29,7 @@
 * [ClamAV Blog](http://blog.clamav.net/)
 
 ## 企业官方博客
+* [CloudBees Blog](https://www.cloudbees.com/blog) Continuous Delivery, DevOps and Jenkins.
 * [Netflix Tech Blog](https://medium.com/netflix-techblog) 
 * [JetBrains Blog](https://blog.jetbrains.com/)
 * [GitHub Blog](https://github.com/blog/)
@@ -97,7 +98,7 @@
 ## 许可方式 License
 [![GNU FDL](http://wiki.huihoo.com/skins/common/images/gnu-fdl.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0) [![CC](http://wiki.huihoo.com/images/4/4e/CC-BY-SA_3.0-88x31.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0)
 
-## 赞助 Donate
-![赞助](http://wiki.huihoo.com/images/d/d7/Weixin-dashang.jpg) 微信扫码
+## 灰狐的朋友们
+微信扫码加入我们
 
-[赞助我们，灰狐想喝一杯热咖啡。](http://wiki.huihoo.com/wiki/Donate_to_huihoo)
+![灰狐会员](http://wiki.huihoo.com/images/2/25/Zsxq.jpg)

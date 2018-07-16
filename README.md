@@ -41,6 +41,7 @@
 * [Mesosphere Blog](https://mesosphere.com/blog/) Apache Mesos
 * [H2O.ai Blog](https://blog.h2o.ai/)
 * [KNIME Blog](https://www.knime.com/blog)
+* [Rancher Blog](https://www.cnrancher.com/blog/) 全球唯一提供Kubernetes、Mesos和Swarm三种调度工具的容器平台(PaaS)
 * [数人云博客](http://blog.shurenyun.com/) 提供基于Mesos + Docker + Kubernetes的PaaS平台服务
 * [Hypriot Blog](http://blog.hypriot.com/) Docker Pirates ARMed with explosive stuff
 
